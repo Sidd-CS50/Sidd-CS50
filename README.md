@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **LLMs to Prevent Cyber Attacks**
 
-- 📚 I’m enrolled in the course **Artificial Intelligence and Robotics**
+- 📚 I’m enrolled in the course **MSc. Artificial Intelligence and Robotics**
 
 - 📫 How to reach me **siddingermany@gmail.com / sidharthsankar209@gmail.com**
 
